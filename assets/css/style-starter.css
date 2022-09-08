@@ -11090,7 +11090,12 @@ button,
   width: 100%;
   border-radius: 8px;
 }
-
+#ph2{
+  margin-top: 80px;
+  width: 500px;
+ box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+ height: 700px;
+}
 .d-grid {
   display: grid;
 }
@@ -12540,7 +12545,7 @@ h3.title-main:after {
   height: 70px;
   line-height: 70px;
   border-radius: 50%;
-  background: rgb(249 88 14 / 12%);
+  background:#a8c7f0;
   text-align: center;
   font-size: 34px;
   color: var(--primary-color);
