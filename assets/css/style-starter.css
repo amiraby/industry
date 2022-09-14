@@ -12408,7 +12408,10 @@ h3.title-main:after {
   right: 0;
   margin: 0 auto;
 }
-
+#appec{
+  width: 200px;
+  height: 150px;
+}
 h3.title-main:before {
   left: -20px;
   bottom: -8px;
@@ -14069,9 +14072,9 @@ h4.abt-right-text {
 .w3l-team-main .team-img img {
   transition: all .2s ease-in-out;
   overflow: hidden;
-  width: 100%;
-  border-radius: 50%;
-  border: 6px solid #fff;
+  width: 70%;
+  border-radius: 60%;
+  
 }
 
 .w3l-team-main .team-member,
